@@ -1,3 +1,5 @@
 streamlit
 finance-datareader
 pandas
+google-generativeai
+Pillow
